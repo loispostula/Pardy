@@ -1,0 +1,12 @@
+{
+  "name": "Pardy",
+  "version": "0.0.1",
+  "description": "Frontend impletmentation around mopidy using mainly react and websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lois Postula",
+  "license": "Beerware"
+}
